@@ -1,0 +1,16 @@
+<longTagName Name='testing'>
+	<longTagName Name='Startpoint'>
+		<longTagName Name='a'>1</longTagName>
+		<longTagName Name='b'>
+			<longTagName Name='ba'>2</longTagName>
+		</longTagName>
+		<longTagName Name='c'>3</longTagName>
+		<longTagName Name='d'>
+			<longTagName Name='da'>
+				<longTagName Name='daa'>
+					<longTagName Name='daaa'>4</longTagName>
+				</longTagName>
+			</longTagName>
+		</longTagName>
+	</longTagName>
+</longTagName>
